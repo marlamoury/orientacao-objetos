@@ -52,6 +52,7 @@ public class Pessoa()
         string resultadoIMC = this.situacaoIMC(valorIMC);
 
         Console.WriteLine("A Pessoa cujo nome é: " + nome + " está com o IMC no valor de: " +  Math.Round(valorIMC, 2) + "E portanto sua situação é considerada: " + resultadoIMC);
+        Console.
 
     }
 

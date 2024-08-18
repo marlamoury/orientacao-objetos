@@ -15,13 +15,20 @@ namespace _06Encapsulamento
          }
 
          //Mensagem
-         public void mensagem()
-         {
+         // Método para exibir mensagens e coletar notas
+        public void Mensagem()
+        {
             Console.WriteLine("Informe a primeira nota:");
-            nota1 = Convert.ToInt32(Console.ReadLine());
+            nota1 = Convert.ToDouble(Console.ReadLine());
+
+            Const
             
             Console.WriteLine("Informe a segunda nota:");
-            nota2 = Convert.ToInt32(Console.ReadLine());
+            nota2 = Convert.ToDouble(Console.ReadLine());
+
+            // Exibe a média
+            double media = Media();
+            Console.WriteLine($"A média das notas é: {media}");
         }
     }
 }
