@@ -5,6 +5,7 @@ namespace _06Encapsulamento
 {
     public class Aluno
     {
+        //Encapsulamento: Evita deixar atributos de forma publica
         //Atributos 
         private double nota1, nota2;
 

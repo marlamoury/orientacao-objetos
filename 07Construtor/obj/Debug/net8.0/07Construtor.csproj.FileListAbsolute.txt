@@ -1,0 +1,15 @@
+C:\dev\OrientacaoObjetos\07Construtor\bin\Debug\net8.0\07Construtor.exe
+C:\dev\OrientacaoObjetos\07Construtor\bin\Debug\net8.0\07Construtor.deps.json
+C:\dev\OrientacaoObjetos\07Construtor\bin\Debug\net8.0\07Construtor.runtimeconfig.json
+C:\dev\OrientacaoObjetos\07Construtor\bin\Debug\net8.0\07Construtor.dll
+C:\dev\OrientacaoObjetos\07Construtor\bin\Debug\net8.0\07Construtor.pdb
+C:\dev\OrientacaoObjetos\07Construtor\obj\Debug\net8.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\OrientacaoObjetos\07Construtor\obj\Debug\net8.0\07Construtor.AssemblyInfoInputs.cache
+C:\dev\OrientacaoObjetos\07Construtor\obj\Debug\net8.0\07Construtor.AssemblyInfo.cs
+C:\dev\OrientacaoObjetos\07Construtor\obj\Debug\net8.0\07Construtor.csproj.CoreCompileInputs.cache
+C:\dev\OrientacaoObjetos\07Construtor\obj\Debug\net8.0\07Construtor.sourcelink.json
+C:\dev\OrientacaoObjetos\07Construtor\obj\Debug\net8.0\07Construtor.dll
+C:\dev\OrientacaoObjetos\07Construtor\obj\Debug\net8.0\refint\07Construtor.dll
+C:\dev\OrientacaoObjetos\07Construtor\obj\Debug\net8.0\07Construtor.pdb
+C:\dev\OrientacaoObjetos\07Construtor\obj\Debug\net8.0\07Construtor.genruntimeconfig.cache
+C:\dev\OrientacaoObjetos\07Construtor\obj\Debug\net8.0\ref\07Construtor.dll
