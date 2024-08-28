@@ -9,7 +9,7 @@ namespace _04ExercicioEscolar
         {
             //Instanciar Objeto da Classe Produto
             Produto p = new Produto();
-        
+            p.nome;//não deveria estar com acesso a valorProduto mas ta aparecendo
             
         }
     }

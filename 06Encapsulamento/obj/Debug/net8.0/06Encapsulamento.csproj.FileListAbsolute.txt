@@ -1,0 +1,15 @@
+C:\dev\OrientacaoObjetos\06Encapsulamento\bin\Debug\net8.0\06Encapsulamento.exe
+C:\dev\OrientacaoObjetos\06Encapsulamento\bin\Debug\net8.0\06Encapsulamento.deps.json
+C:\dev\OrientacaoObjetos\06Encapsulamento\bin\Debug\net8.0\06Encapsulamento.runtimeconfig.json
+C:\dev\OrientacaoObjetos\06Encapsulamento\bin\Debug\net8.0\06Encapsulamento.dll
+C:\dev\OrientacaoObjetos\06Encapsulamento\bin\Debug\net8.0\06Encapsulamento.pdb
+C:\dev\OrientacaoObjetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\OrientacaoObjetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.AssemblyInfoInputs.cache
+C:\dev\OrientacaoObjetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.AssemblyInfo.cs
+C:\dev\OrientacaoObjetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\dev\OrientacaoObjetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.sourcelink.json
+C:\dev\OrientacaoObjetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.dll
+C:\dev\OrientacaoObjetos\06Encapsulamento\obj\Debug\net8.0\refint\06Encapsulamento.dll
+C:\dev\OrientacaoObjetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.pdb
+C:\dev\OrientacaoObjetos\06Encapsulamento\obj\Debug\net8.0\06Encapsulamento.genruntimeconfig.cache
+C:\dev\OrientacaoObjetos\06Encapsulamento\obj\Debug\net8.0\ref\06Encapsulamento.dll
